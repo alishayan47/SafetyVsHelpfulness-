@@ -1,0 +1,5 @@
+Sum of safety_score,Column Labels,,,,,,
+Row Labels,gemma_3k,gemma_4k,llama_3k,llama_4k,qwen_3k,qwen_4k,Grand Total
+safe,1505,1545,1510,1258,1588,1508,8914
+unsafe,4640,4614,4209,3709,4845,4635,26652
+Grand Total,6145,6159,5719,4967,6433,6143,35566
